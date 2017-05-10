@@ -1,0 +1,32 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7684
+Begin MonoManager ReloadAssembly
+Platform assembly: U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  1.274 seconds
+Platform assembly: U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: U:\Projects\Rivkind Addition\3D\VR\Unity\Rialto\rialtoVR_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Overlay is using an unsupported compressed pixel format.UnloadTime: 2.354825 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 34bc -> priority: 1 
+  Thread -> id: 1f24 -> priority: 1 
